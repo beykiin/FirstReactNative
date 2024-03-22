@@ -1,7 +1,9 @@
 <h1><i>REACT NATIVE FUNDAMENTALS</i></h1>
 <p>In this project, I focused on topics such as flex, style, components, custom components, and created cards.</p>
-<img src="SS1 (2).png">
+<div style="display-flex">
+   <img src="SS1 (2).png">
 <img src="SS2 (2).png">
+</div>
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
